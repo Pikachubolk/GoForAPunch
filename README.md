@@ -1,2 +1,2 @@
 # GoForAPunch
-This repo is a current temporary page for GoForAPunch.com
+This repo is currently a temporary page for GoForAPunch.com
